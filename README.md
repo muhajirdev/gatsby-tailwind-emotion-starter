@@ -17,6 +17,29 @@ Your built file will be in `/public`
 
 This project was based on [gatsby-plugin-tailwindcss](https://github.com/muhajirframe/gatsby-plugin-tailwindcss/)
 
+### How?
+
+```javascript
+import React from 'react'
+import styled from 'react-emotion'
+
+
+const Container = styled.div`
+  ${tw`py-8`};
+`
+const Text = styled.p`
+  ${tw`bg-black text-white`};
+`
+
+const Home = () => (
+  <Container>
+    <Text>I am Text component made with Tailwind CSS + EmotionJS</Text>
+  </Container>
+)
+
+export default Home
+```
+
 
 ## For more information
 
