@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Default Starter',
+    title: 'Gatsby Tailwind Emotion Starter',
   },
   plugins: [
     'gatsby-plugin-tailwindcss',
@@ -9,7 +9,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
+        name: 'gatsby-tailwind-emotion-starter',
         short_name: 'starter',
         start_url: '/',
         background_color: '#663399',
