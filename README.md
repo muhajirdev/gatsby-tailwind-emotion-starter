@@ -70,4 +70,5 @@ Because Gatsby is blazing fast, and comes with alot of plugins
 - [react-tailwind-emotion-starter](https://github.com/muhajirframe/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
 - [vscode-tailwind-styled-snippets](https://github.com/muhajirframe/vscode-tailwind-styled-snippets)
 - [gatsby-plugin-tailwindcss](https://github.com/muhajirframe/gatsby-plugin-tailwincss)
+
 **Enjoy!**
