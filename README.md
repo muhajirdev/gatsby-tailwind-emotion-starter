@@ -15,7 +15,7 @@ npm run build
 ```
 Your built file will be in `/public`
 
-This project was based on [gatsby-tailwind-emotion-starter](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
+This project was based on [gatsby-plugin-tailwindcss/](https://github.com/muhajirframe/gatsby-plugin-tailwindcss/)
 
 
 ## For more information
