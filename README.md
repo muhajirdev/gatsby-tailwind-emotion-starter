@@ -17,7 +17,7 @@ Your built file will be in `/public`
 
 This project was based on [gatsby-plugin-tailwindcss](https://github.com/muhajirframe/gatsby-plugin-tailwindcss/)
 
-### How?
+### How the heck do I use it?
 
 ```javascript
 import React from 'react'
