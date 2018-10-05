@@ -40,6 +40,20 @@ const Home = () => (
 export default Home
 ```
 
+### Why would I use it?
+
+Because Tailwind CSS is awesome. If you used [Tachyons](https://tachyons.io/) before. You know how awesome it utility first CSS. Compared to CSS framework like [Bootstrap](http://getbootstrap.com/). -- If you haven't try utility first CSS, give it a try. It's one of the best things in my life --. Tailwind is a more customizable version of Tachyons.
+
+But, because [Tailwind CSS](https://tailwindcss.com) gives you alot of class as utilities. The file size gets bloated. In fact it's 1.5 times bigger than Bootstrap. (https://tailwindcss.com/docs/controlling-file-size )
+
+CSS-in-JS to save.
+
+Fortunately, you can use CSS-in-JS like [Emotion](https://github.com/emotion-js/emotion), to only load needed styles. So you can keep you css small.
+
+Furthremore, CSS-in-JS is just awesome. [CSS in JS: Benefits, Drawbacks, and Tooling](https://objectpartners.com/2017/11/03/css-in-js-benefits-drawbacks-and-tooling/)
+
+Why Gatsby?
+Because Gatsby is blazing fast, and comes with alot of plugins
 
 ## For more information
 
