@@ -1,5 +1,21 @@
 # Gatsby Tailwind Emotion Starter
 
+## Getting Started
+
+Install Gatsby CLI:
+```sh
+npm install --global gatsby-cli
+```
+
+Create new Gatsby project using this starter:
+```sh
+gatsby new my-new-website https://github.com/muhajirframe/gatsby-tailwind-emotion-starter
+```
+
+```sh
+cd my-new-website
+```
+
 ## Usage
 
 ### Develop
