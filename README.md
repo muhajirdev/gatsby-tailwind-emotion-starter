@@ -9,7 +9,7 @@ npm install --global gatsby-cli
 
 Create new Gatsby project using this starter:
 ```sh
-gatsby new my-new-website https://github.com/muhajirframe/gatsby-tailwind-emotion-starter
+gatsby new my-new-website https://github.com/muhajirdev/gatsby-tailwind-emotion-starter
 ```
 
 ```sh
@@ -31,7 +31,7 @@ npm run build
 ```
 Your built file will be in `/public`
 
-This project was based on [gatsby-plugin-tailwindcss](https://github.com/muhajirframe/gatsby-plugin-tailwindcss/)
+This project was based on [gatsby-plugin-tailwindcss](https://github.com/muhajirdev/gatsby-plugin-tailwindcss/)
 
 ### How the heck do I use it?
 
@@ -73,18 +73,18 @@ Because Gatsby is blazing fast, and comes with alot of plugins
 
 ## For more information
 
-- [Github](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
-- [gatsby-tailwind-emotion-starter](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter)
-- Got a question? [Submit an issue](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter/issues/new)
+- [Github](https://github.com/muhajirdev/gatsby-tailwind-emotion-starter)
+- [gatsby-tailwind-emotion-starter](https://github.com/muhajirdev/gatsby-tailwind-emotion-starter)
+- Got a question? [Submit an issue](https://github.com/muhajirdev/gatsby-tailwind-emotion-starter/issues/new)
 
 ## Contributing
 
-- [Submit an idea](https://github.com/muhajirframe/gatsby-tailwind-emotion-starter/issues/new)
+- [Submit an idea](https://github.com/muhajirdev/gatsby-tailwind-emotion-starter/issues/new)
 - Make a pull request
 
 ## Related
-- [react-tailwind-emotion-starter](https://github.com/muhajirframe/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
-- [vscode-tailwind-styled-snippets](https://github.com/muhajirframe/vscode-tailwind-styled-snippets)
-- [gatsby-plugin-tailwindcss](https://github.com/muhajirframe/gatsby-plugin-tailwincss)
+- [react-tailwind-emotion-starter](https://github.com/muhajirdev/react-tailwind-emotion-starter) A React + Tailwind + EmotionJs starter based on [create-react-app](https://github.com/facebook/create-react-app)
+- [vscode-tailwind-styled-snippets](https://github.com/muhajirdev/vscode-tailwind-styled-snippets)
+- [gatsby-plugin-tailwindcss](https://github.com/muhajirdev/gatsby-plugin-tailwincss)
 
 **Enjoy!**
